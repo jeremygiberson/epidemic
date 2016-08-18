@@ -14,7 +14,7 @@ This repository will be branched for each step of the process.
 
 ### Domain Logic Implementation
   1. Documentation - Event Storming.
-  2. Code - Test driven design of Entities and Events
+  2. Code - Domain Driven Design Implementation
   3. Documentation - Rules of game play
   4. Code - Applying rules and validations
 
