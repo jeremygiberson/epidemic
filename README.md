@@ -10,7 +10,7 @@ With good design, the domain logic isn't coupled to presentation and is therefor
 as a web, mobile native, console, or even windowed application. For the purpose of this exercise, a Web Application will
 be the presentation.
 
-This repository will be tagged with versions for each step of the process.
+This repository will be branched for each step of the process.
 
 ### Domain Logic Implementation
   1. Documentation - Event Storming.
